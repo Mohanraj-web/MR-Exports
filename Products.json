@@ -1,26 +1,159 @@
 [
-  {
-      "Product_name": "Coconut",
-      "Price": "$2 per kg | ₹15 per piece",
-      "Product_detail": "The coconut is a versatile fruit from the coconut palm tree. Its parts are used widely: the water is hydrating, the milk is creamy, the flesh is edible, and the shell can be crafted into various items. Rich in nutrients, coconuts are integral to many cuisines and cultures.",
+    {
+        "Product_name": "Coconut",
+        "Price": "$2 per kg | ₹15 per piece",
+        "Product_detail": "The coconut is a versatile fruit from the coconut palm tree. Its parts are used widely: the water is hydrating, the milk is creamy, the flesh is edible, and the shell can be crafted into various items. Rich in nutrients, coconuts are integral to many cuisines and cultures.",
+        "Per_day_production": "",
+        "Per_month_production": "",
+        "Offers": "",
+        "images": {
+            "img1": "https://static.toiimg.com/photo/106288548.cms",
+            "img2": "https://www.newnessplant.com/uploads/e064544c4348b774aed8380abc06d459.jpg"
+        }
+    },
+    {
+        "Product_name": "Chicken Masala",
+        "Price": "$2 per kg | ₹490 per Kg",
+        "Product_detail": "Chicken masala powder is a flavorful blend of spices, including coriander, cumin, turmeric, and chili, used to enhance the taste of chicken dishes. It's a versatile seasoning, adding rich aroma and depth to curries, stews, and grilled recipes.",
+        "Per_day_production": "",
+        "Per_month_production": "",
+        "Offers": "",
+        "images": {
+            "img1": "https://5.imimg.com/data5/SELLER/Default/2023/1/HO/QB/OC/181944661/natural-chicken-masala-powder.jpeg",
+            "img2": "https://5.imimg.com/data5/SELLER/Default/2023/1/CE/AF/II/2676627/chicken-masala.jpg"
+        }
+    },
+    {
+      "Product_name": "Chilli Powder",
+      "Price": "$2 per kg | ₹490 per Kg",
+      "Product_detail": "Chilli powder is a vibrant, fiery spice made from dried and ground red chilies. It adds heat and a deep red color to dishes, enhancing their flavor. Widely used in Indian cuisine, it’s essential for curries, marinades, and spice blends.",
       "Per_day_production": "",
       "Per_month_production": "",
       "Offers": "",
       "images": {
-          "img1": "https://static.toiimg.com/photo/106288548.cms",
-          "img2": "https://www.newnessplant.com/uploads/e064544c4348b774aed8380abc06d459.jpg"
+          "img1": "https://5.imimg.com/data5/SELLER/Default/2022/12/JC/ZZ/SO/6299242/red-chilli-powder.jpg",
+          "img2": "https://www.farmerjunction.com/wp-content/uploads/2017/08/chilli_powder_organic_farmer_junction.jpg"
       }
   },
   {
-      "Product_name": "Chicken Masala",
-      "Price": "$2 per kg | ₹490 per Kg",
-      "Product_detail": "Chicken masala powder is a flavorful blend of spices, including coriander, cumin, turmeric, and chili, used to enhance the taste of chicken dishes. It's a versatile seasoning, adding rich aroma and depth to curries, stews, and grilled recipes.",
-      "Per_day_production": "",
-      "Per_month_production": "",
-      "Offers": "",
-      "images": {
-          "img1": "https://5.imimg.com/data5/SELLER/Default/2023/1/HO/QB/OC/181944661/natural-chicken-masala-powder.jpeg",
-          "img2": "https://5.imimg.com/data5/SELLER/Default/2023/1/CE/AF/II/2676627/chicken-masala.jpg"
-      }
+    "Product_name": "Coriander Powder",
+    "Price": "$2 per kg | ₹290 per Kg",
+    "Product_detail": "Coriander powder, made from ground coriander seeds, is a key spice in many cuisines. It has a warm, citrusy flavor that enhances curries, soups, and stews. Often used in spice blends, it adds depth and a subtle sweetness to various dishes.",
+    "Per_day_production": "",
+    "Per_month_production": "",
+    "Offers": "",
+    "images": {
+        "img1": "https://sitarafoods.com/wp-content/uploads/2023/11/coriander-powder-dhaniya-Sitara-Foods.jpeg",
+        "img2": "https://freshclub.co.in/cdn/shop/products/corinader-powder.jpg?v=1660189230"
+    }
+  },
+  {
+    "Product_name": "Dhal Powder",
+    "Price": "$2 per kg | ₹410 per Kg",
+    "Product_detail": "Dhal powder is a spice blend typically used to flavor lentil-based dishes in South Indian cuisine. Made from roasted lentils, dried chilies, and aromatic spices, it adds a rich, savory taste to curries and stews, enhancing the flavor of the dhal.",
+    "Per_day_production": "",
+    "Per_month_production": "",
+    "Offers": "",
+    "images": {
+        "img1": "https://3.imimg.com/data3/BT/RE/MY-7579715/dhal-powder-500x500.jpg",
+        "img2": "https://3.imimg.com/data3/XF/BA/MY-16357540/dhal-powder-500x500.jpg"
+    }
+  },
+  {
+    "Product_name": "Gram Flour",
+    "Price": "$2 per kg | ₹140 per Kg",
+    "Product_detail": "Gram flour, also known as besan, is a versatile ingredient made from ground chickpeas. It has a nutty flavor and is commonly used in Indian cuisine for making batters, savory snacks, and thickening curries. It adds richness and texture to various dishes.",
+    "Per_day_production": "",
+    "Per_month_production": "",
+    "Offers": "",
+    "images": {
+        "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj_vj9b4ViDleQHNbN26MvAvc3h6oek3ZFfA&s",
+        "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRR36FLMmswbN1Qq5XCTXmj59T84fzU9PY6w&s"
+    }
+  },
+  {
+    "Product_name": "Health Mix",
+    "Price": "$2 per kg | ₹390 per Kg",
+    "Product_detail": "Health mix is a nutritious blend of various grains, pulses, and nuts, ground into a fine powder. Rich in vitamins, minerals, and fiber, it's often used to prepare wholesome porridges or smoothies, providing a balanced and energy-boosting meal option for all ages.",
+    "Per_day_production": "",
+    "Per_month_production": "",
+    "Offers": "",
+    "images": {
+        "img1": "https://mirchi.com/os/cdn/content/images/health%20mix%20powder%20dharshana%20homemade%20food_medium_0457219.webp",
+        "img2": "https://www.kannukutty.in/static/images/blog/29/ae4228ca-0186-4c75-9d23-8d34c793f718.jpeg"
+    }
+  },
+  {
+    "Product_name": "Idly Powder",
+    "Price": "$2 per kg | ₹410 per Kg",
+    "Product_detail": "Idly powder, also known as idli podi, is a flavorful spice blend used to enhance the taste of idlis, a popular South Indian breakfast dish. Made from roasted lentils, sesame seeds, dried chilies, and aromatic spices, it adds a savory, slightly spicy kick.",
+    "Per_day_production": "",
+    "Per_month_production": "",
+    "Offers": "",
+    "images": {
+        "img1": "https://5.imimg.com/data5/SELLER/Default/2022/2/TQ/DY/ZL/4103551/idly-chilli-powder-250gm-500x500.jpg",
+        "img2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj64HI3N4md9qI8xX-xn4ZR11Ls7KdPPFbHKCy_6Ky7ccCK48J0qWUVj6cp-faS1-4rEZfnH6bAlf3_uhL1EI0JRYS2YqmDSFJnPOnwsDyZNYVgmrAr3bgTeeYY2okqwOsa6wb2caQqtT1v/s1600/Idli+podi+recipe+in+TAmil.JPG"
+    }
+  },
+  {
+    "Product_name": "Mutton Masala",
+    "Price": "$2 per kg | ₹490 per Kg",
+    "Product_detail": "Mutton masala is a robust and aromatic spice blend used to flavor mutton dishes. It combines ingredients like coriander, cumin, turmeric, and red chili powder to create a rich, savory taste. Perfect for curries and stews, it enhances the depth and complexity of mutton dishes.",
+    "Per_day_production": "",
+    "Per_month_production": "",
+    "Offers": "",
+    "images": {
+        "img1": "https://5.imimg.com/data5/SELLER/Default/2022/8/JH/LZ/GZ/103527597/mutton-masala-powder-recipe.jpg",
+        "img2": "https://nativesweetsandsnacks.com/wp-content/uploads/2021/11/Mutton-masala.jpg"
+    }
+  },
+  {
+    "Product_name": "Natural Jaggery",
+    "Price": "$2 per kg | ₹115 per Kg",
+    "Product_detail": "Natural jaggery is an unrefined sugar made from sugarcane or palm sap. It retains essential nutrients like iron, calcium, and magnesium, offering a richer, more complex flavor than white sugar. Used in sweets and beverages, it adds a deep, caramel-like sweetness and earthy richness.",
+    "Per_day_production": "",
+    "Per_month_production": "",
+    "Offers": "",
+    "images": {
+        "img1": "https://mittalorganics.com/cdn/shop/files/110.webp?v=1704374678&width=1445",
+        "img2": "https://cdn.shopaccino.com/edible-smart/products/jaggery-powder-328954_l.jpg?v=516"
+    }
+  },
+  {
+    "Product_name": "Ragi Flour",
+    "Price": "$2 per kg | ₹100 per Kg",
+    "Product_detail": "Ragi flour, made from finely ground finger millet, is a nutritious staple in many cuisines. It’s rich in calcium, fiber, and iron, making it ideal for healthy diets. Used in various recipes like dosas, rotis, and porridge, it adds a nutty flavor and dense texture.",
+    "Per_day_production": "",
+    "Per_month_production": "",
+    "Offers": "",
+    "images": {
+        "img1": "https://aarogyamastu.in/wp-content/uploads/2022/06/ragi-flour.webp",
+        "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSItkJprJz4PRP9gFJV_CGtqTpyfuuJ-S-N7A&s"
+    }
+  },
+  {
+    "Product_name": "Sambar Powder",
+    "Price": "$2 per kg | ₹490 per Kg",
+    "Product_detail": "Sambar powder is a vibrant spice blend essential for making sambar, a popular South Indian lentil stew. It typically includes ingredients like coriander, cumin, mustard seeds, and dried chilies. This aromatic mix adds depth, heat, and a tangy flavor to the dish.",
+    "Per_day_production": "",
+    "Per_month_production": "",
+    "Offers": "",
+    "images": {
+        "img1": "https://www.cookingwithsiddhi.com/wp-content/uploads/2018/06/sambar-powder-750x500.jpg",
+        "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8y_OO_5zRncynha-hc6iXnscpf-A-Em_qng&s"
+    }
+  },
+  {
+    "Product_name": "Turmeric Powder",
+    "Price": "$2 per kg | ₹290 per Kg",
+    "Product_detail": "Turmeric powder, derived from the dried root of the turmeric plant, is a bright yellow spice with a warm, earthy flavor. Widely used in cooking, it adds color and depth to dishes. Its active compound, curcumin, is known for its anti-inflammatory and antioxidant properties.",
+    "Per_day_production": "",
+    "Per_month_production": "",
+    "Offers": "",
+    "images": {
+        "img1": "https://www.chettinadsnacksonline.com/cdn/shop/products/Turmericnew_963x.png?v=1615736950",
+        "img2": "https://www.jiomart.com/images/product/original/rvtr3b7lcx/vedicine-pure-and-natural-wild-kasturi-turmeric-powder-for-face-and-skin-care-150gm-product-images-orvtr3b7lcx-p599831201-2-202303251718.jpg?im=Resize=(420,420)"
+    }
   }
-]
+  ]
+  
