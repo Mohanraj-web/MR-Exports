@@ -11,5 +11,18 @@
             "img1": "https://static.toiimg.com/photo/106288548.cms",
             "img2": "https://www.newnessplant.com/uploads/e064544c4348b774aed8380abc06d459.jpg"
         }
+    },
+    {
+        "Product_name": "Chicken Masala",
+        "Price":"$2 per kg | ₹490 per Kg",
+        "Product_detail": "Chicken masala powder is a blend of aromatic spices used to season and flavor chicken dishes, particularly in Indian cuisine. It typically includes a mix of ground coriander, cumin, turmeric, chili powder, and garam masala, offering a rich, warm, and slightly spicy taste. This versatile spice blend enhances the depth of flavor in curries, marinades, and gravies, making it a staple in many kitchens.",
+        "Per_day_production": "",
+        "Per_month_production": "",
+        "Offers": "",
+        "images": 
+        {
+            "img1": "https://5.imimg.com/data5/SELLER/Default/2023/1/HO/QB/OC/181944661/natural-chicken-masala-powder.jpeg",
+            "img2": "https://5.imimg.com/data5/SELLER/Default/2023/1/CE/AF/II/2676627/chicken-masala.jpg"
+        }
     }
 ]
