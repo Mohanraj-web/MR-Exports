@@ -1,7 +1,7 @@
 [
     {
         "Product_name": "Coconut",
-        "Price": "$2 per kg | ₹20 per piece",
+        "Price": "",
         "Product_detail": "The coconut is a versatile fruit from the coconut palm tree. Its parts are used widely: the water is hydrating, the milk is creamy, the flesh is edible, and the shell can be crafted into various items. Rich in nutrients, coconuts are integral to many cuisines and cultures.",
         "Per_day_production": "",
         "Per_month_production": "",
@@ -13,7 +13,7 @@
     },
     {
         "Product_name": "Coconut Oil",
-        "Price": "$18 per Liter | ₹390 per Liter",
+        "Price": "",
         "Product_detail": "Coconut oil is a versatile oil extracted from the flesh of coconuts. It has a distinct, subtle coconut flavor and is rich in medium-chain triglycerides. Used in cooking and baking, it offers a high smoke point and contributes to a creamy texture and tropical aroma in dishes.",
         "Per_day_production": "",
         "Per_month_production": "",
@@ -25,7 +25,7 @@
     },
     {
         "Product_name": "Gingelly Oil",
-        "Price": "$25 per Liter | ₹530 per Liter",
+        "Price": "",
         "Product_detail": "Gingelly oil, also known as sesame oil, is extracted from sesame seeds and is prized for its nutty flavor and aroma. It’s commonly used in cooking and as a finishing oil in various cuisines. Rich in antioxidants and healthy fats, it adds depth to dishes and enhances their taste.",
         "Per_day_production": "",
         "Per_month_production": "",
@@ -37,7 +37,7 @@
     },
     {
         "Product_name": "Groundnut Oil",
-        "Price": "$22 per Liter | ₹410 per Liter",
+        "Price": "",
         "Product_detail": "Groundnut oil, also known as peanut oil, is extracted from peanuts and is favored for its mild flavor and high smoke point. It’s commonly used for frying and sautéing, providing a neutral taste that complements a variety of dishes. Rich in monounsaturated fats, it’s a heart-healthy cooking option.",
         "Per_day_production": "",
         "Per_month_production": "",
@@ -49,7 +49,7 @@
     },
     {
         "Product_name": "Chicken Masala",
-        "Price": "$90 per kg | ₹490 per Kg",
+        "Price": "",
         "Product_detail": "Chicken masala powder is a flavorful blend of spices, including coriander, cumin, turmeric, and chili, used to enhance the taste of chicken dishes. It's a versatile seasoning, adding rich aroma and depth to curries, stews, and grilled recipes.",
         "Per_day_production": "",
         "Per_month_production": "",
@@ -61,7 +61,7 @@
     },
     {
         "Product_name": "Chilli Powder",
-        "Price": "$41 per kg | ₹490 per Kg",
+        "Price": "",
         "Product_detail": "Chilli powder is a vibrant, fiery spice made from dried and ground red chilies. It adds heat and a deep red color to dishes, enhancing their flavor. Widely used in Indian cuisine, it’s essential for curries, marinades, and spice blends.",
         "Per_day_production": "",
         "Per_month_production": "",
@@ -73,7 +73,7 @@
     },
     {
         "Product_name": "Coriander Powder",
-        "Price": "$55 per kg | ₹290 per Kg",
+        "Price": "",
         "Product_detail": "Coriander powder, made from ground coriander seeds, is a key spice in many cuisines. It has a warm, citrusy flavor that enhances curries, soups, and stews. Often used in spice blends, it adds depth and a subtle sweetness to various dishes.",
         "Per_day_production": "",
         "Per_month_production": "",
@@ -85,7 +85,7 @@
     },
     {
         "Product_name": "Dhal Powder",
-        "Price": "$60 per kg | ₹410 per Kg",
+        "Price": "",
         "Product_detail": "Dhal powder is a spice blend typically used to flavor lentil-based dishes in South Indian cuisine. Made from roasted lentils, dried chilies, and aromatic spices, it adds a rich, savory taste to curries and stews, enhancing the flavor of the dhal.",
         "Per_day_production": "",
         "Per_month_production": "",
@@ -97,7 +97,7 @@
     },
     {
         "Product_name": "Gram Flour",
-        "Price": "$15 per kg | ₹140 per Kg",
+        "Price": "",
         "Product_detail": "Gram flour, also known as besan, is a versatile ingredient made from ground chickpeas. It has a nutty flavor and is commonly used in Indian cuisine for making batters, savory snacks, and thickening curries. It adds richness and texture to various dishes.",
         "Per_day_production": "",
         "Per_month_production": "",
@@ -109,7 +109,7 @@
     },
     {
         "Product_name": "Health Mix",
-        "Price": "$15 per kg | ₹390 per Kg",
+        "Price": "",
         "Product_detail": "Health mix is a nutritious blend of various grains, pulses, and nuts, ground into a fine powder. Rich in vitamins, minerals, and fiber, it's often used to prepare wholesome porridges or smoothies, providing a balanced and energy-boosting meal option for all ages.",
         "Per_day_production": "",
         "Per_month_production": "",
@@ -121,7 +121,7 @@
     },
     {
         "Product_name": "Idly Powder",
-        "Price": "$50 per kg | ₹410 per Kg",
+        "Price": "",
         "Product_detail": "Idly powder, also known as idli podi, is a flavorful spice blend used to enhance the taste of idlis, a popular South Indian breakfast dish. Made from roasted lentils, sesame seeds, dried chilies, and aromatic spices, it adds a savory, slightly spicy kick.",
         "Per_day_production": "",
         "Per_month_production": "",
@@ -133,7 +133,7 @@
     },
     {
         "Product_name": "Mutton Masala",
-        "Price": "$70 per kg | ₹490 per Kg",
+        "Price": "",
         "Product_detail": "Mutton masala is a robust and aromatic spice blend used to flavor mutton dishes. It combines ingredients like coriander, cumin, turmeric, and red chili powder to create a rich, savory taste. Perfect for curries and stews, it enhances the depth and complexity of mutton dishes.",
         "Per_day_production": "",
         "Per_month_production": "",
@@ -145,7 +145,7 @@
     },
     {
         "Product_name": "Natural Jaggery",
-        "Price": "$15 per kg | ₹115 per Kg",
+        "Price": "",
         "Product_detail": "Natural jaggery is an unrefined sugar made from sugarcane or palm sap. It retains essential nutrients like iron, calcium, and magnesium, offering a richer, more complex flavor than white sugar. Used in sweets and beverages, it adds a deep, caramel-like sweetness and earthy richness.",
         "Per_day_production": "",
         "Per_month_production": "",
@@ -157,7 +157,7 @@
     },
     {
         "Product_name": "Ragi Flour",
-        "Price": "$17 per kg | ₹100 per Kg",
+        "Price": "",
         "Product_detail": "Ragi flour, made from finely ground finger millet, is a nutritious staple in many cuisines. It’s rich in calcium, fiber, and iron, making it ideal for healthy diets. Used in various recipes like dosas, rotis, and porridge, it adds a nutty flavor and dense texture.",
         "Per_day_production": "",
         "Per_month_production": "",
@@ -169,7 +169,7 @@
     },
     {
         "Product_name": "Sambar Powder",
-        "Price": "$50 per kg | ₹490 per Kg",
+        "Price": "",
         "Product_detail": "Sambar powder is a vibrant spice blend essential for making sambar, a popular South Indian lentil stew. It typically includes ingredients like coriander, cumin, mustard seeds, and dried chilies. This aromatic mix adds depth, heat, and a tangy flavor to the dish.",
         "Per_day_production": "",
         "Per_month_production": "",
@@ -181,7 +181,7 @@
     },
     {
         "Product_name": "Turmeric Powder",
-        "Price": "$30 per kg | ₹290 per Kg",
+        "Price": "",
         "Product_detail": "Turmeric powder, derived from the dried root of the turmeric plant, is a bright yellow spice with a warm, earthy flavor. Widely used in cooking, it adds color and depth to dishes. Its active compound, curcumin, is known for its anti-inflammatory and antioxidant properties.",
         "Per_day_production": "",
         "Per_month_production": "",
